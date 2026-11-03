@@ -37,6 +37,12 @@ npm run build
 npm run preview
 ```
 
+## Deploy to GitHub Pages
+
+The GitHub Actions workflow builds the app from `portfolio/` and deploys it to GitHub Pages whenever changes are pushed to `main`. You can also start a deployment manually from the repository's **Actions** tab.
+
+To enable Pages, open **Settings → Pages** on GitHub and set the build and deployment source to **GitHub Actions**. The first deployment will publish the site; its URL will appear in the workflow run and in the `github-pages` deployment environment.
+
 ## Contact
 
 - GitHub: [Naviii123](https://github.com/Naviii123)
