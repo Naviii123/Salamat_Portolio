@@ -11,6 +11,7 @@ The portfolio includes:
 - Personal and collaborative projects, including PanelTracker, ViVy, and Shifted
 - Education and academic achievements
 - Certifications with links to their credentials
+- CV available to view online or download
 - Contact information
 
 ## Built with

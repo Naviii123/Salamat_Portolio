@@ -17,7 +17,7 @@ export const certificates = [
   },
   {
     name: 'JavaScript Algorithms and Data Structures',
-    url: 'https://freecodecamp.org/certification/Ivan_03/javascript-algorithms-and-data-structures-v8',
+    url: 'https://www.freecodecamp.org/certification/ivan_03/javascript-algorithms-and-data-structures-v8',
   },
   {
     name: 'Artificial Intelligence Fundamentals',
@@ -25,11 +25,11 @@ export const certificates = [
   },
   {
     name: 'Relational Database',
-    url: 'https://freecodecamp.org/certification/Ivan_03/relational-database-v8',
+    url: 'https://www.freecodecamp.org/certification/ivan_03/relational-database-v8',
   },
   {
     name: 'Responsive Web Design',
-    url: 'https://www.freecodecamp.org/certification/Ivan_03/responsive-web-design',
+    url: 'https://www.freecodecamp.org/certification/ivan_03/responsive-web-design',
   },
   {
     name: 'CompTIA IT Fundamentals (ITF+) Certification',
