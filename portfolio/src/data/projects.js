@@ -17,7 +17,7 @@ export const projects = [
     kindLabel: 'Personal Project',
     category: 'Web Development',
     year: '2026',
-    tech: ['React', 'Vite', 'AniList GraphQL API'],
+    tech: ['React', 'Vite', 'AniList GraphQL API', 'Supabase'],
     description:
       'A manga and manhwa tracking web application that allows users to manage their personal reading library and explore series information.',
     features: [
